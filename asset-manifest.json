@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/MyPortfolio/static/css/main.664783bd.css",
+    "main.js": "/MyPortfolio/static/js/main.4d4bf3ae.js",
+    "static/js/453.419a5d54.chunk.js": "/MyPortfolio/static/js/453.419a5d54.chunk.js",
+    "static/media/fa-solid-900.ttf": "/MyPortfolio/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
+    "static/media/fa-brands-400.ttf": "/MyPortfolio/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
+    "static/media/fa-solid-900.woff2": "/MyPortfolio/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
+    "static/media/fa-brands-400.woff2": "/MyPortfolio/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
+    "static/media/charithProfile.jpg": "/MyPortfolio/static/media/charithProfile.76c9be5c0e5fc6afb11c.jpg",
+    "static/media/fa-regular-400.ttf": "/MyPortfolio/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
+    "static/media/HomePageImg.jpg": "/MyPortfolio/static/media/HomePageImg.42fbd4ac58f6dbd979d5.jpg",
+    "static/media/codeforcesicon.jpg": "/MyPortfolio/static/media/codeforcesicon.db97ec04ca8684d8730d.jpg",
+    "static/media/fa-regular-400.woff2": "/MyPortfolio/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
+    "static/media/codecheflogo.jpg": "/MyPortfolio/static/media/codecheflogo.cb20c19292ab07021a71.jpg",
+    "static/media/fa-v4compatibility.ttf": "/MyPortfolio/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
+    "static/media/fa-v4compatibility.woff2": "/MyPortfolio/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
+    "index.html": "/MyPortfolio/index.html",
+    "main.664783bd.css.map": "/MyPortfolio/static/css/main.664783bd.css.map",
+    "main.4d4bf3ae.js.map": "/MyPortfolio/static/js/main.4d4bf3ae.js.map",
+    "453.419a5d54.chunk.js.map": "/MyPortfolio/static/js/453.419a5d54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.664783bd.css",
+    "static/js/main.4d4bf3ae.js"
+  ]
+}

@@ -45,6 +45,14 @@ const ExperiencePage = () => {
                 className="flex items-center text-indigo-500 hover:text-indigo-700"
               >
                 <FaGithub className="mr-2" />
+                View GitHub
+              </a>
+              <a
+                href="https://library-management-system-fronte-git-f64ced-charith07s-projects.vercel.app/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="flex items-center text-indigo-500 hover:text-indigo-700"
+              >
                 View Project
               </a>
             </div>
@@ -57,6 +65,23 @@ const ExperiencePage = () => {
         <h2 className="text-2xl font-semibold text-gray-800 mb-4">Internships</h2>
         <div className="grid grid-cols-1 md:grid-cols-2 gap-10">
           {/* Internship 1 */}
+          <div className="bg-white shadow-md rounded-lg p-6 hover:shadow-lg transition-shadow duration-300">
+            <h3 className="text-xl font-semibold text-gray-700">MCEME CSE Internship (OnSite)</h3>
+            <p className="text-gray-600 mt-2">
+            The Digital Fund Management System for MCEME is a modern solution designed to digitize and streamline the financial operations of the Military College of Electronics and Mechanical Engineering. This project replaces traditional paper-based processes with a secure, efficient, and user-friendly digital platform. Key features include automated receipt and payment management, real-time financial reporting, and bank reconciliation. The system supports multiple payment methods and ensures compliance with financial year formats. Built using React.js for the frontend and Node.js with MongoDB for the backend, it offers remote access, role-based security, and centralized data management, significantly improving operational efficiency and reducing environmental impact.
+            </p>
+            <div className="mt-4 flex justify-between items-center">
+              <a
+                href="https://github.com/charith079/Internship"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-indigo-500 hover:text-indigo-700"
+              >
+                View Internship Details
+              </a>
+            </div>
+          </div>
+
           <div className="bg-white shadow-md rounded-lg p-6 hover:shadow-lg transition-shadow duration-300">
             <h3 className="text-xl font-semibold text-gray-700">AWS Virtual Integership AIML</h3>
             <p className="text-gray-600 mt-2">
